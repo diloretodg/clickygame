@@ -1,0 +1,17 @@
+.card {
+    height: 50;
+    width:50;
+    margin: 20;
+    background: "#e8eaf6"
+  };
+  .heading {
+    background: "#3f51b5";
+    min-height: 50;
+    line-height: 3.5;
+    font-size: "1.2rem";
+    color: "white";
+    padding: "0 20px"
+  };
+  .content {
+    padding: 20
+  }

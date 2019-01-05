@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Italy",
+        "image": "https://www.countryflags.io/it/flat/64.png"
+    },
+    {
+        "id": 2,
+        "name": "Antartica",
+        "image": "https://www.countryflags.io/aq/flat/64.png"
+    },
+    {
+        "id": 3,
+        "name": "Canada",
+        "image": "https://www.countryflags.io/ca/flat/64.png"
+    },
+    {
+        "id": 4,
+        "name": "Denmark",
+        "image": "https://www.countryflags.io/de/flat/64.png"
+    },
+    {
+        "id": 5,
+        "name": "Bolivia",
+        "image": "https://www.countryflags.io/bo/flat/64.png"
+    },
+    {
+        "id": 6,
+        "name": "Albania",
+        "image": "https://www.countryflags.io/al/flat/64.png"
+    },
+    {
+        "id": 7,
+        "name": "Kenya",
+        "image": "https://www.countryflags.io/ke/flat/64.png"
+    },
+    {
+        "id": 8,
+        "name": "Ireland",
+        "image": "https://www.countryflags.io/ie/flat/64.png"
+    },
+    {
+        "id": 9,
+        "name": "India",
+        "image": "https://www.countryflags.io/in/flat/64.png"
+    },
+    {
+        "id": 10,
+        "name": "Bahammas",
+        "image": "https://www.countryflags.io/bs/flat/64.png"
+    },
+    {
+        "id": 11,
+        "name": "Botswana",
+        "image": "https://www.countryflags.io/bw/flat/64.png"
+    },
+    {
+        "id": 12,
+        "name": "Russia",
+        "image": "https://www.countryflags.io/ru/flat/64.png"  
+    }
+]
